@@ -16,7 +16,9 @@
 
 ---
 
-# 🪗 My Badges
+### 🪗 My Badges
+
+<h4><a href="https://www.credly.com/users/yee-chung-wong">Credly Profile</a></h4>
 
 <p>
   <a href="https://www.credly.com/badges/bbbdc089-b7f4-4c35-89cc-0de734b24d27/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="Badge" alt="Badge" width="100" height="100"/></a>
@@ -25,7 +27,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -49,7 +51,7 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yee1106&theme=dark&background=000000)](https://git.io/streak-stats)
 

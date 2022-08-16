@@ -16,9 +16,13 @@
 
 ---
 
----
 # 🪗 My Badges
-<p></p>
+
+<p>
+  <a href="https://www.credly.com/badges/bbbdc089-b7f4-4c35-89cc-0de734b24d27/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="Badge" alt="Badge" width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/45e74dd9-d1a2-4a54-9df7-0735fd0154a8/public_url"><img src="https://images.credly.com/images/6549540b-04d5-44f7-814e-de5b93d49249/2021_Digital_Badges_Certified__Cloud_Solutions_Architect.png" title="Badge" alt="Badge" width="100" height="100"/></a>
+</p>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
